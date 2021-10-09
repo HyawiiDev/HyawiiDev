@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HyawiiDev
+- 👀 I’m interested in Coding/Creating/Developing
+- 🌱 I’m currently learning Python/lua/Node.json
+- 💞️ I’m looking to collaborate on Discord
+- 📫 How to reach me batuylz2009@gmail.com
